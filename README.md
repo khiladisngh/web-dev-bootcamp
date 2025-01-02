@@ -8,7 +8,7 @@ This repository contains practice exercises and projects from Angela Yu's Web De
 - JavaScript
 - Node.js
 - Express.js
-- MongoDB
+- PostgreSQL
 - React.js
 - and more...
 
