@@ -1,0 +1,39 @@
+/* Color styles */
+#red,
+#blue,
+#orange,
+#green,
+#yellow {
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+#red {
+  color: #ff0000;
+}
+#blue {
+  color: #0000ff;
+}
+#orange {
+  color: #ffa500;
+}
+#green {
+  color: #008000;
+}
+#yellow {
+  color: #ffd700;
+} /* Using a darker yellow for better visibility */
+
+.color-title {
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-transform: capitalize;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover; /* Ensures images maintain aspect ratio */
+  border-radius: 8px; /* Adds rounded corners */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adds subtle shadow */
+}
